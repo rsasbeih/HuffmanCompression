@@ -1,0 +1,22 @@
+1120752:Majdi : CSE : 70
+1130340:Rand: CSE : 75
+1131913:Maen : CS : 50
+1141339:Areen : CSE : 65
+1141622:Deema : CSE : 80
+1141945:Kasandra : PHY : 50
+1142149:Manar : CSE : 65
+1142529: Sami : CS : 78
+1142753: Mohammad : CS : 88
+1150304: Maab : MATH : 72
+1150467: Amr : ACC : 99
+1151504: Hadi : CSE : 82
+1152270: Atheer : CS : 92
+1152770: Farhat : SCI : 80
+1153216: Isra : ENG : 76
+1153279: Yazeed : CS : 67
+1160063: Ayah : CS : 99
+1160144: Feras : CSE : 97
+1160724: Sajeda : CSE : 89
+1161357: Bara : CS
+1161728: Omar : CS
+1161798: Husam : CSE : 70M
